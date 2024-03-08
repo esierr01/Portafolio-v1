@@ -12,7 +12,8 @@
 <div>
     <img width="500" alt="teaser" src="asset/img/resultaporta2.png">
 </div>
-#### Especificaciones:
+
+### Especificaciones:
 * Debe descargar todo el proyecto
 * Colocarlo en su carpeta 
-#### Estatus actual: Terminado (Marzo 2024)
+### Estatus actual: Terminado (Marzo 2024)
